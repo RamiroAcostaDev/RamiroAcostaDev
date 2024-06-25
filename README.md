@@ -5,6 +5,7 @@
 
 🔍 I seek to be part of collaborative environments that challenge and enhance my skills.
 
+### Take a look at my skills ⚡
 ```js
 const Ramiro = {
 	code: ['JavaScript', 'TypeScript', 'HTML', 'CSS', 'Node', 'MySQL'],
